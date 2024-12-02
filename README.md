@@ -13,13 +13,14 @@ This is a mental health-focused website designed to provide users with essential
 - **Frontend**:  
   - HTML  
   - CSS  
-  - JavaScript  
+  - JavaScript
+  - Bootstrap
 
 - **Backend**:  
-  - Node.js / Express.js (if applicable)  
+  - Node.js / Express.js 
 
 - **Database**:  
-  - MongoDB (or your choice of database)  
+  - MongoDB 
 
 - **Real-Time Communication**:  
   - Socket.IO (for chat functionality)  
